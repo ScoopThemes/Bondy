@@ -28,7 +28,7 @@ The template comes with developer friendly and easy customizable code. It works 
 + [unsplash](https://unsplash.com/)
 + [mockups](http://freebbble.com/)
 
-## License
+## MIT License
 
 Copyright (c) 2014 [ScoopThemes](http://www.scoopthemes.com)
 
