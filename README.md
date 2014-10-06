@@ -17,20 +17,20 @@ The template comes with developer friendly and easy customizable code. It works 
 
 ## Credits
 
-+ [Twitter Bootstrap](http://www.getbootstrap.com){:target="_blank"}
-+ [jQuery](http://jquery.com){:target="_blank"}
-+ [Font Awesome](http://fortawesome.github.io/Font-Awesome){:target="_blank"}
-+ [easyPieChart](https://github.com/rendro/easy-pie-chart){:target="_blank"}
-+ [excanvas](https://code.google.com/p/explorercanvas/){:target="_blank"}
-+ [Revolution Slider](http://www.themepunch.com/codecanyon/revolution){:target="_blank"}
-+ [isotope](http://isotope.metafizzy.co/){:target="_blank"}
-+ [Waypoint](https://github.com/imakewebthings/jquery-waypoints){:target="_blank"}
-+ [unsplash](https://unsplash.com/){:target="_blank"}
-+ [mockups](http://freebbble.com/){:target="_blank"}
++ [Twitter Bootstrap](http://www.getbootstrap.com)
++ [jQuery](http://jquery.com)
++ [Font Awesome](http://fortawesome.github.io/Font-Awesome)
++ [easyPieChart](https://github.com/rendro/easy-pie-chart)
++ [excanvas](https://code.google.com/p/explorercanvas/)
++ [Revolution Slider](http://www.themepunch.com/codecanyon/revolution)
++ [isotope](http://isotope.metafizzy.co/)
++ [Waypoint](https://github.com/imakewebthings/jquery-waypoints)
++ [unsplash](https://unsplash.com/)
++ [mockups](http://freebbble.com/)
 
 ## License
 
-Copyright (c) 2014 [ScoopThemes](http://www.scoopthemes.com){:target="_blank"}
+Copyright (c) 2014 [ScoopThemes](http://www.scoopthemes.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
