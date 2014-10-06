@@ -1,8 +1,8 @@
 {
-  "name": "Runek ",
+  "name": "Bondy",
   "version": "0.0.3",
   "lastComment": "updates",
-  "description": "Second template",
+  "description": "Free One Page Bootstrap Template",
   "main": "app/index.html",
   "dependencies": {
     "grunt": "~0.4.1",
@@ -26,8 +26,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://dyaa@bitbucket.org/ScoopThemes/runek.git"
+    "url": "https://github.com/ScoopThemes/Bondy.git"
   },
-  "author": "Dyaa Eldin",
+  "author": "ScoopThemes",
   "license": "MIT"
 }
