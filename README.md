@@ -3,6 +3,8 @@
 Bondy is a free fully responsive Bootstrap 3 template multi-purpose for any upcoming project. 
 The template comes with developer friendly and easy customizable code. It works with all main web browsers "IE8+", Tablets and mobile phones.
 
+Template Link & Preview [Bondy Preview](http://www.scoopthemes.com/templates/Bondy-Theme/)
+
 ## Features
 
 + Built With Bootstrap 3 Latest Stable Version.
